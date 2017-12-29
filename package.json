@@ -23,7 +23,7 @@
   "homepage": "https://github.com/asn007/eslint-config-codebox#readme",
   "dependencies": {
     "eslint-config-airbnb": "^16.1.0",
-    "eslint-config-codebox-base": "^2.0.0",
+    "eslint-config-codebox-base": "^2.0.1",
     "eslint-config-prettier": "^2.9.0"
   }
 }
