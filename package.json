@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-codebox",
+  "version": "2.0.0",
+  "description": "A ESLint configuration for Codebox, React and a11y included",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asn007/eslint-config-codebox.git"
+  },
+  "keywords": [
+    "eslint-config",
+    "eslint",
+    "codebox"
+  ],
+  "author": "Andrey Sinitsyn <andrey.sin98@gmail.com> (https://andrey.space)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asn007/eslint-config-codebox/issues"
+  },
+  "homepage": "https://github.com/asn007/eslint-config-codebox#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-codebox-base": "^2.0.0",
+    "eslint-config-prettier": "^2.9.0"
+  }
+}
